@@ -6,7 +6,7 @@
 }
 
 body{
-  background-image:url(./07_001.png),url(./04pic.jpg);
+  background-image:url(07_001.png),url(04pic.jpg);
   background-repeat:no-repeat,no-repeat;
   background-size:10% 10%,cover;
   background-color:lightgray;
