@@ -6,10 +6,10 @@
 }
 
 body{
-  background-image:(../07_001.png),url(../04pic.jpg);
+  background-image:(./07_001.png),url(./04pic.jpg);
   background-repeat:no-repeat,no-repeat;
   background-size:10% 10%,cover;
-  background-color:lightgrey;
+  background-color:lightgray;
   margin:5px;
 }
 
