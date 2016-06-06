@@ -45,3 +45,8 @@ body{
 .border-box{
   box-sizing:border-box;
 }
+
+.skew-gradient{
+  background-color:white;
+  background:linear-gradient(135deg,orangered 0%,white 50%,orange 100%);
+}
